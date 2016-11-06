@@ -10,7 +10,7 @@ html,body{
 body{
   font-size:15px;
   background-color:darkorange;
-  background-image: url(.../Week1/Day4/htmlcss1-img_bicycles.jpeg);
+  background-image: url(htmlcss1-img_bicycles.jpeg);
   background-repeat:no-repeat;
   background-attachment:fixed;
   background-size:cover;

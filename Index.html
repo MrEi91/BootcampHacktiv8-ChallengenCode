@@ -10,7 +10,7 @@
       <h2>Welcome everyone!</h2>
     </div>
     <div class="body">
-      <img id="photo" src=".../Week1/Day4/htmlcss1-img_bike.png" alt="profile">
+      <img id="photo" src="htmlcss1-img_bike.png" alt="profile">
       <p>Hi, I am Eri Irawan and this is my first webpage. Let's be a fullstack developer with Hacktiv8.</p>
       <p>This is my target list:</p>
       <ol>
