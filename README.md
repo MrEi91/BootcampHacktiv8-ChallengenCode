@@ -36,22 +36,23 @@ CSS Syntax :
 
 ##Future Plans
 Untuk Development dimasa mendatang :
-1. Analysis
-  Menentukan website purpose
-  Menentukan Website goals
-  Menentukan target audiance
-2. Planning
-  Sitemap
-  Website Structure
-  Technoligies
-3. Design
-  Wireframe models
-  Visual design
-  Usability UI,UX
-4. Content
-  Copy writing
-  Photos & videos
-  SEO
+
+Analysis :
+  - Menentukan website purpose
+  - Menentukan Website goals
+  - Menentukan target audiance
+Planning :
+  - Sitemap
+  - Website Structure
+  - Technoligies
+Design :
+  - Wireframe models
+  - Visual design
+  - Usability UI,UX
+Content :
+  - Copy writing
+  - Photos & videos
+  - SEO
 
 ## About Me
 Nama saya Eri Irawan, biasa dipanggil Eri. saya mulai tertarik didunia IT semenjak kuliah tapi tidak begitu banyak yang saya ketahui, mungkin karena saya yang kurang rajin belajar sehingga pengetahuan saya terbatas. Saya pernah untuk meninggalkan dunia IT, mencoba ke propesi lain yang mungkin saya dapat kuasai, tapi itu tidak berhasil. Saya selalu terkagum melihat seorang yang membuat sesuatu dengan IT, itu membuat saya penasaran & akhirnya saya memutuskan untuk menekuni dunia IT. Sepesifik saya memilih untuk jadi seorang programmer, itu menarik karena bermain dengan code program sepertinya asyiik, yaa walaupun itu membuat saya pusing (LOL). Langkah pertama untuk memulai saya ikut bootcamp di Hacktiv8, tempat pelatiahan yang menawarkan jadi Fullstack Developer yang siap kerja dengan gajih yang menggiurkan. Ini menarik, karena dengan belajar selama 3 bulan secara intesif, Hacktiv8 menjanjikan lulusannya yang siap kerja dengan pengetahuan yang oke. Saya berharap, langkah kecil ini bisa menjadikan diri saya menjadi pribadi yang lebih baik dan bermanfaat untuk diri sendiri khususnya dan orang lain pada umumnya.
