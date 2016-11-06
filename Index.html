@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Course at Hacktiv8</title>
+    <link href="style.css" rel="stylesheet" type="text/css" media="screen">
+  </head>
+  <body>
+    <div class="header">
+      <h1>Eri Irawan Webpage</h1>
+      <h2>Welcome everyone!</h2>
+    </div>
+    <div class="body">
+      <img id="photo" src=".../Week1/Day4/htmlcss1-img_bike.png" alt="profile">
+      <p>Hi, I am Eri Irawan and this is my first webpage. Let's be a fullstack developer with Hacktiv8.</p>
+      <p>This is my target list:</p>
+      <ol>
+        <li>Being fullstack developer</li>
+        <li>Create a wonderfull website</li>
+      </ol>
+      <p>Here is my contact</p>
+      <ul>
+        <li>Email	:eryirawan91@gmail.com</li>
+        <li>Phone	:085793258596</li>
+      </ul>
+      <p>My Daily Routine</p>
+      <table border="1">
+        <thead>
+          <tr>
+            <th></th>
+            <th>Morning</th>
+            <th>Afternoon</th>
+            <th>Evening</th>
+             <th>Night</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Monday</td>
+            <td rowspan="7" colspan="4">Eat, Coding & Sleep</td>
+          </tr>
+          <tr>
+            <td>Tuesday</td>
+          </tr>
+          <tr>
+            <td>Wednesday</td>
+          </tr>
+          <tr>
+            <td>Thursday</td>
+          </tr>
+          <tr>
+            <td>Friday</td>
+          </tr>
+          <tr>
+            <td>Saturday</td>
+          </tr>
+          <tr>
+            <td>Sunday</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="comment">
+      <h3>Leave your comment below</h3>
+      <form action="#" method="post">
+        <div>
+          <label>First Name:</label><br>
+          <input name="first-name" type="text"/><br>
+          <label>Last Name:</label><br>
+          <input name="last-name" type="text"/>
+        </div>
+        <div>
+          <label>Gender:</label><br>
+          <input type="radio" name="gender" value="male"/>Male
+          <input type="radio" name="gender" value="female"/>Female
+          <input type="radio" name="gender" value="other"/>Other
+        </div>
+        <div>
+          <label>Favorite Cars</label><br>
+          <select id="list" name="favoriteCars">
+            <option value="bmw">BMS</option>
+            <option value="ferarri">Ferarri</option>
+            <option value="civic">Honda Civic</option>
+          </select>
+        </div>
+        <div>
+          <label>Language Spoken :</label><br>
+          <input type="checkbox" name="language" value="bahasa indonesia"/>Bahasa Indonesia<br>
+          <input type="checkbox" name="language" value="english"/>English<br>
+          <input type="checkbox" name="language" value="other"/>Other<br>
+        </div>
+        <div>
+          <label>Bio :</label><br>
+          <textarea cols="50" rows="10" name="bio"></textarea>
+        </div>
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+  </body>
+</html>
