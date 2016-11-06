@@ -41,14 +41,17 @@ Analysis :
   - Menentukan website purpose
   - Menentukan Website goals
   - Menentukan target audiance
+
 Planning :
   - Sitemap
   - Website Structure
   - Technoligies
+
 Design :
   - Wireframe models
   - Visual design
   - Usability UI,UX
+  
 Content :
   - Copy writing
   - Photos & videos
