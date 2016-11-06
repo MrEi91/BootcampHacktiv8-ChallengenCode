@@ -10,7 +10,7 @@ html,body{
 body{
   font-size:15px;
   background-color:darkorange;
-  background-image: url(htmlcss1-img_bicycles.jpeg);
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-8/htmlcss1-img_bicycles.jpeg);
   background-repeat:no-repeat;
   background-attachment:fixed;
   background-size:cover;
