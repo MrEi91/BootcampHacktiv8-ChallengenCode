@@ -1,6 +1,8 @@
-<!DOCTYPE html>
+<p><!DOCTYPE html>
 <html>
   <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>Course at Hacktiv8</title>
     <link href="style.css" rel="stylesheet" type="text/css" media="screen">
   </head>
@@ -19,8 +21,8 @@
       </ol>
       <p>Here is my contact</p>
       <ul>
-        <li>Email	:eryirawan91@gmail.com</li>
-        <li>Phone	:085793258596</li>
+        <li>Email   :eryirawan91@gmail.com</li>
+        <li>Phone   :085793258596</li>
       </ul>
       <p>My Daily Routine</p>
       <table border="1">
@@ -36,7 +38,7 @@
         <tbody>
           <tr>
             <td>Monday</td>
-            <td rowspan="7" colspan="4">Eat, Coding & Sleep</td>
+            <td rowspan="7" colspan="4">Eat, Coding &amp; Sleep</td>
           </tr>
           <tr>
             <td>Tuesday</td>
@@ -96,4 +98,4 @@
       </form>
     </div>
   </body>
-</html>
+</html></p>
