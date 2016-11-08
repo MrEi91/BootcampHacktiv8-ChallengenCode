@@ -1,2 +1,0 @@
-Pelajari lagi element-element form dengan benar !
-untuk label tidak perlu menggunakan atribut (name) !
